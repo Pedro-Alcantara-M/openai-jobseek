@@ -21,6 +21,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Details
+- I pushed the .env file to make evaluating the test easier
 
 I used the free gpt-4.1-mini version to generate the text, but this version does not allow reading text from external links.
 
